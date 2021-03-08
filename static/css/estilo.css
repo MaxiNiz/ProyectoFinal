@@ -1,0 +1,13 @@
+.main {
+    font-family: Raleway;
+    color: rgb(255, 0, 0);
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.parrafo {
+    font-family: Raleway;
+    color: rgb(0, 255, 136);
+    font-size: 35px;
+    text-decoration: underline;
+}
